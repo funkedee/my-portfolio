@@ -6,13 +6,13 @@ if(isset($_POST['email'])){
 	$from=$_POST["email"];
 	// Email Receiver Address
 	$receiver="daniellois92@gmail.com";
-	$subject="Newsletter Subscription";
+	$subject="Portfolio Contact";
 	$headers = "MIME-Version: 1.0" . "\r\n";
 	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 	$message="
 	<table width='50%' border='0' align='center' cellpadding='0' cellspacing='0'>
 	<tr>
-	<td colspan='2' align='center' valign='top'><img style=' margin-top: 15px; ' src='http://www.yourdomain.com/images/logo.png' width='135'></td>
+	<td colspan='2' align='center' valign='top'></td>
 	</tr>
 	<tr>
 	<td width='50%' align='right'>&nbsp;</td>

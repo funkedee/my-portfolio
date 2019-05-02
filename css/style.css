@@ -336,6 +336,9 @@ header .intro-section .buttons { margin: 17px auto; float: none; display: inline
 .highlight { font-size: 65px; font-weight: 400; background-color: #f96015; color: #fff; padding: 12px 34px }
 .no-transition { -webkit-transition: height 0.01s; -moz-transition: height 0.01s; -ms-transition: height 0.01s; -o-transition: height 0.01s; transition: height 0.01s;}
 
+/* about */
+#about-pic {padding-top:100px}
+
 /* ==========================================================================
 10. Work
 ========================================================================== */

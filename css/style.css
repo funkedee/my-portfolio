@@ -640,6 +640,8 @@ span.nav-close:before { content: "X"; font-family: 'Open Sans', sans-serif; tran
 .client-logos { padding:0 !important; background: url(http://placehold.it/1920x1000) no-repeat center top fixed; -webkit-background-size: cover; background-size: cover; }
 .client-logos .color-overlay { padding: 94px 0 93px; }
 .clients-slider li { display: inline-block; margin: 0 4%; width: 15%; }
+/* resume */
+#resume{height:1100px}
 
 /* ==========================================================================
 20. Contact
